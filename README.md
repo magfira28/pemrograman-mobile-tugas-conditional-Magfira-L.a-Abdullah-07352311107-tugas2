@@ -1,1 +1,2 @@
-# pemrograman-mobile-tugas-conditional-Magfira-L.a-Abdullah-07352311107-tugas2
+Nama : Magfira L.a Abdullah 
+Npm : 07352311107
